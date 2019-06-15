@@ -17,7 +17,7 @@ print ("OF_ROOT = " .. OF_ROOT)
 APP_NAME = "ofApp"
 
 workspace "MyPremakeApp"
-    location "visual_studio"
+    location "build"
     configurations { "Debug", "Release" }
 
 architecture "x86_64"

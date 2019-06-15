@@ -1,4 +1,4 @@
-visual_studio
+build
 bin/*.dll
 bin/*.exe
 bin/*.exp
